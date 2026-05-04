@@ -5,12 +5,12 @@ This project uses Matplotlib to create visualizations for retail sales and custo
 module11-assignment.py
 
 ## What I Practiced
-Creating line charts, bar charts, and pie charts
-Data visualization techniques
-Building a business dashboard
+- Creating line charts, bar charts, and pie charts
+- Data visualization techniques
+- Building a business dashboard
 
 ## Key Features
-Sales trend analysis
-Category and location comparisons
-Advertising vs sales relationship
-Multi-chart dashboard
+- Sales trend analysis
+- Category and location comparisons
+- Advertising vs sales relationship
+- Multi-chart dashboard
